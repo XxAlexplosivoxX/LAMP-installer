@@ -16,7 +16,7 @@ after the execution you must create the account for mariadb
 
 ### Connect to mysql server from your root systemuser via socket (no password required)
 ```
-mysql --protocol=socket  #run this command as root (e.g. prefixed with sudo)
+sudo mysql --protocol=socket  #run this command as root (e.g. prefixed with sudo)
 ```
 
 ### Create the new user
