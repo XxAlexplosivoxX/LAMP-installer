@@ -10,7 +10,7 @@ a script to install a LAMP server on Arch Linux
 ```
 curl -LO https://raw.githubusercontent.com/XxAlexplosivoxX/LAMP-installer/refs/heads/main/LAMP-Installer.sh
 chmod +x LAMP-Installer.sh
-./LAMP-Installer.sh
+sudo ./LAMP-Installer.sh
 ```
 after the execution you must create the account for mariadb
 
