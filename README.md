@@ -24,7 +24,7 @@ sudo mysql --protocol=socket  #run this command as root (e.g. prefixed with sudo
 CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
 ```
 
-### Create new database and grant privilleges
+### Create new database and grant privilleges on that database
 
 ```
 CREATE DATABASE `db_name`;
