@@ -1,5 +1,7 @@
-# LAMP-installer
 <div align=center>
+  
+# LAMP-installer
+<br>
   <img src="screenshot.png">
   <br>
   a script to install a LAMP server on Arch Linux
