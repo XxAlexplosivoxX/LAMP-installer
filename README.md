@@ -24,7 +24,7 @@ sudo mysql --protocol=socket  #run this command as root (e.g. prefixed with sudo
 
 ### Create the new user
 ```
-CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'username'@'%' IDENTIFIED BY 'password';
 ```
 
 ### Create new database and grant privilleges on that database
